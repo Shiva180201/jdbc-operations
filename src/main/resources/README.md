@@ -1,0 +1,1 @@
+This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using JDBC (Java Database Connectivity) with a MySQL database. The project includes a DatabaseConnection class for establishing a connection to the database and an EmployeeOperations class for performing operations on the employee data in the database.
